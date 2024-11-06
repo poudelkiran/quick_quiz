@@ -1,6 +1,6 @@
 name: quick_quiz
 description: "Package to display multiple-choice-questions (MCQs) in a quiz format."
-version: 0.0.1
+version: 1.0.0
 author: Kiran Poudel
 homepage:
 
